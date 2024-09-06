@@ -1,7 +1,3 @@
-What is the difference between merging and rebasing?
+Q2: What field could data science be applied to? Give and Example and how it might help
 
-Answer: [Merging process creates a new merge commit and preserve the previous commit history, rebasing rewrite all commit history and reapply commits on the branch]
-
-What skills do you hope to improve during this course?
-
-Answer: [I hope to learn how data science is applied to machine learning in this course.]
+Answer: [Data science can be applied to Decision making , Product recommendation, Predicting the outcome. For instance: Economic modeling, artificial neural network training]
