@@ -1,7 +1,11 @@
+Q1: Why might be consider using git?
+
+Answer: [Git can be used for file tracking, transfer and collaboration for group projects.]
+
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: [Data science can be applied to Decision making , Product recommendation, Predicting the outcome. For instance: Economic modeling, artificial neural network training]
 
-Q1: Why might be consider using git?
+Q3: What is the difference between merging and rebasing?
 
-Answer: [Git can be used for file tracking, transfer and collaboration for group projects.]
+Answer: [Merging process creates a new merge commit and preserve the previous commit history, rebasing rewrite all commit history and reapply commits on the branch]
