@@ -1,3 +1,7 @@
 What is the difference between merging and rebasing?
 
 Answer: [Merging process creates a new merge commit and preserve the previous commit history, rebasing rewrite all commit history and reapply commits on the branch]
+
+What skills do you hope to improve during this course?
+
+Answer: [I hope to learn how data science is applied to machine learning in this course.]
