@@ -1,3 +1,3 @@
-Q2: What field could data science be applied to? Give and Example and how it might help
+Q1: Why might be consider using git?
 
-Answer: [Data science can be applied to Decision making , Product recommendation, Predicting the outcome. For instance: Economic modeling, artificial neural network training]
+Answer: [Git can be used for file tracking, transfer and collaboration for group projects.]
